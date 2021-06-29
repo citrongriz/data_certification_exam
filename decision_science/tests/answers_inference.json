@@ -1,0 +1,7 @@
+{
+    "MEDIAN_AGE": " positive\n\n",
+    "T_STAT": " The t statistic is the coefficient divided by its standard error for the median it's = 4.856\n\n",
+    "P_VALUE": "\nThe p-value for each term tests the null hypothesis that the coefficient is equal to zero (no effect).\nA low p-value (< 0.05) indicates that you can reject the null hypothesis.\nIn other words, a predictor that has a low p-value is likely\nto be a meaningful addition to your model because changes in the predictor's value are related\nto changes in the response variable.\nFor the median age p value we can reject the null hypothesis since it's 0.3%\nThe significance level must be chosen before the interpretation of result\nfor a 95% or 90% confidence level this median p value must be < 5% or 10% it's 0.3% so << \n\n",
+    "INCREASE": "the total number of incidents decrease by 2098.0372 when the share\nof families with a married couple increases by 1 percentage point\n\n",
+    "LIMITATIONS": "\nLinear regression assumes that the data are independent\nbut beeing from the same district create cluster of data which are not independent \n"
+}
